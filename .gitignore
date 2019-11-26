@@ -1,0 +1,3 @@
+infrastructure/.terraform
+infrastructure/credentials.json
+infrastructure/terraform.auto.tfvars
